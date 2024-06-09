@@ -1,0 +1,9 @@
+*{
+    margin: 0;padding: 0;
+}
+button{
+    width:30px;
+    height: 30px;
+    background-color: #fff;
+    border:none
+  }
