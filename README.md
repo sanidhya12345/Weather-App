@@ -16,14 +16,19 @@ The main objective of this app is to get real time weather data with the help of
 ## Technologies and Library Used:-
 
 1.Icons:- Ionicons icon library  (https://www.npmjs.com/package/@reacticons/ionicons)
+
 2.Responsiveness:- media query from react-responsive library (https://www.npmjs.com/package/react-responsive)
+
 3.Images :- google.com
+
 4.Hooks:- useState is used to handle the state changes.
 
 ## Device Compatibilty:-
 
 1.Desktop and Laptop:- Minimum width is 1224px
+
 2.Mobile/Smart Phones:- Minimum width is 425px
+
 3.Tablets:- Minimum width is 768px
 
 ## Screenshots:-
